@@ -1,2 +1,0 @@
-# irpan
-sistem informasi profil
